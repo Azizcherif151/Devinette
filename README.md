@@ -13,4 +13,3 @@ Petit jeu de devinettes en Java :
 
 ##  Auteur
 Cherif Hamed Aziz
-https://pl.kotl.in/H3tL2SXNE
